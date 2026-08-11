@@ -13,16 +13,8 @@
         }
       },
       "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDummyKeyForBuildPurposeOnly"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
+      "api_key": [{ "current_key": "AIzaSyDummyKeyForBuildPurpose" }],
+      "services": { "appinvite_service": { "other_platform_oauth_client": [] } }
     }
   ],
   "configuration_version": "1"
