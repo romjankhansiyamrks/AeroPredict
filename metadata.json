@@ -1,0 +1,6 @@
+{
+  "name": "AeroPredict",
+  "description": "AeroPredict - Aviator Future Live Signal app featuring real-time signal predictions, trend analysis, and aviator multiplier telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
